@@ -1,3 +1,1 @@
 # a-simple-html-page
-
-
